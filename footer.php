@@ -24,7 +24,7 @@
 		<footer id="colophon" class="site-footer">
 			<?php get_template_part( 'template-parts/footer/footer', 'widget' ); ?>
 
-			<!-- <?php get_template_part( 'template-parts/footer/site', 'info' ); ?> -->
+		
 		</footer><!-- #colophon -->
 
 		<?php get_template_part( 'template-parts/sticky-playlist/content', 'playlist' ); ?>
